@@ -1,6 +1,6 @@
 # SATMAR
-Offline Satellite Data and depth/altitude viewer
-Sat Data is approx 20GB and can be downloaded at the google drive link:
+Offline Satellite Data and depth/altitude viewer<br>
+Sat Data in the BINARY folder is approx 20GB and can be downloaded at the google drive link:
 
 https://drive.google.com/file/d/1H9esLIEYk470uPnjuLX2_2SjcrE-uONq/view?usp=share_link
 

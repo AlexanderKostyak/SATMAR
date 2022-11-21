@@ -1,0 +1,19 @@
+//the dimensions of the image generated in the viewer (256px tiles)
+tileheight  19
+tilewidth  36
+
+//0 meters, 1 feet, 2 yards, 3 fathoms,
+topography_units 1
+
+//Zoom depth and speed parameters
+minZoomLevel  -20
+maxZoomLevel        30
+zoomMultiplicationFactor1.x 1
+
+//Default Coordinates (perhaps rebuffer and batch taskkill and re-launch)
+latitude 29.9792
+longitude 31.1342
+
+// rebuffersatdata() on program startup true or false
+rebuffersatdata true
+

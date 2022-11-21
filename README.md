@@ -19,7 +19,7 @@ such as “Map data ©2019 Google”. Note that the exact text of the attributio
 
 Microsoft<br>
 NOT INTENDED TO BE RELIED UPON IN application or situation where failure of the Services could lead to the death or serious bodily injury of any person or to severe physical or environmental damage
-Microsoft - Bing Maps acknowledgement as well
+Microsoft - Bing Maps acknowledgement
 
 AllMapSoft<br>
 Shareware under MIT at https://www.allmapsoft.com/

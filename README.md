@@ -4,6 +4,9 @@ Sat Data in the BINARY folder is approx 20GB and can be downloaded at the google
 
 https://drive.google.com/file/d/1H9esLIEYk470uPnjuLX2_2SjcrE-uONq/view?usp=share_link
 
+There is a demo video at:
+https://www.youtube.com/watch?v=ryB42n3f5RI&list=PL1EXBjpJAZJdDsIWvPUiG9c0jYje-oGIg&index=2&ab_channel=AlexanderKostyak
+
 Required attribution
 
 GEBCO<br>
